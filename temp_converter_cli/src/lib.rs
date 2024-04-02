@@ -4,7 +4,7 @@ use std::io::{self, Write};
 use crate::features::fahrenheit_to_celsius;
 
 
-pub fn main() {
+pub fn execute() {
     println!("Olá, esse é um conversor de Fahrenheit para Célsius");
     
     print!("Escolha um valor em Fahrenheit: ");
