@@ -1,0 +1,23 @@
+GET http://127.0.0.1:8000
+
+###
+
+POST http://127.0.0.1:8000
+Content-Type: application/json
+
+{
+    "text": "Hello, World!"
+}
+
+###
+
+PUT http://127.0.0.1:8000/1
+Content-Type: application/json
+
+{
+    "text": "Hello, World2!"
+}
+
+###
+
+DELETE  http://127.0.0.1:8000/2

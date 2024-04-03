@@ -23,3 +23,11 @@
 É um projeto simples de hello world usando o framework "Rocket".
 
 - É o quarto projeto, a ideia é aprender a executar um provedor, iniciar uma rota e fazer testes unitários em API não só com funções.
+
+## Rocket Crud Array
+
+É um crud simples que pega, adiciona, editar e deleta strings em um Vec.
+
+- Não me preocupei em lidar com erros e só fiz o dream, o objetivo foi mais misturar varias rotas coisa que não tinha feito no Hello World e fazer testes com uma API Rest que é o mais comum.
+
+- Tive problemas para resetar o "banco de dados", acabei criando uma função dentro do arquivo onde fica a array é meio gambiarra mas ao que tudo indica funcionou.
