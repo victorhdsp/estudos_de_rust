@@ -17,3 +17,9 @@
 É um projeto onde você precisa descobrir o numero que o software escolheu.
 
 - É o terceiro projeto, a ideia foi aprender a trabalhar com repetição, sinceramente foi o mais fácil é praticamente igual ao javascript, no final das contas eu aprendi a lidar melhor com multiplos arquivos mais do que efetivamente com repetição.
+
+## Rocket Hello World
+
+É um projeto simples de hello world usando o framework "Rocket".
+
+- É o quarto projeto, a ideia é aprender a executar um provedor, iniciar uma rota e fazer testes unitários em API não só com funções.
